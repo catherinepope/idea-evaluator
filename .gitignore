@@ -7,3 +7,8 @@ idea_evaluations.md
 
 # macOS
 .DS_Store
+
+# pyinstaller
+/dist/
+/build/
+*.spec
