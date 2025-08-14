@@ -1,0 +1,9 @@
+# Exclude idea evaluation results
+idea_evaluations.md
+
+# Include README but exclude other markdown files
+*.md
+!README.md
+
+# macOS
+.DS_Store
